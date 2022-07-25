@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+title: "Tutorial of METAFlux:Bulk and single cell RNA-seq"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+    toc: yes
+toc-title: Table of Contents
+vignette: |
+  %\VignetteIndexEntry{Tutorial of METAFlux:Bulk and single cell RNA-seq} %\VignetteEngine{knitr::knitr} %\VignetteEncoding{UTF-8}
